@@ -12,6 +12,12 @@
 <img src="https://user-images.githubusercontent.com/60685715/127171537-f3e0e76d-b90b-4c4b-8e78-a891c2c9a75c.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=rajoanrahman100.rajoanrahman100)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajoanrahman100&theme=tokyonight)
+
+
+
 <!---
 rajoanrahman100/rajoanrahman100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
