@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Rajoan Rahman
 - 👀 I’m interested in flutter,dart,android
-- 🌱 I’m currently learning/developing flutte
+- 🌱 I’m currently learning/developing app using flutter framework
 - ⚽ I love to watch MMA/UFC and play football
 
 ## 🧰 Languages and Tools:
