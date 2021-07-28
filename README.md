@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Md. Rajoan Rahman
+# Hi "🖐️", I am Md. Rajoan Rahman Rifat
+- 💻 I'm working as a flutter developer at Softopark IT LTD.
 - 👀 I’m interested in flutter,dart,android
 - 🌱 I’m currently learning/developing app using flutter framework
 - ⚽ I love to watch MMA/UFC and play football
