@@ -16,7 +16,9 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajoanrahman100.rajoanrahman100)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajoanrahman100&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajoanrahman100&show_icons=true&theme=radical&count_private=true)
+
+
 
 
 
