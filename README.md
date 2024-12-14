@@ -40,23 +40,11 @@
 
 ## ✍️ Connect with Me:
 <p align="start">
-  <a href="https://www.linkedin.com/in/md-rajoan-rahman-rifat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/md-rajoan-rahman-rifat-683533186/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://github.com/your-github-username"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 Thank you for stopping by! Feel free to explore my repositories and connect if you’re interested in collaborating or discussing exciting ideas.
-
-
-
-## 🧰 Languages and Tools:
-<p align="start">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/60685715/127171045-689266f5-1bc3-41c1-88dc-976057ea6100.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/60685715/127171537-f3e0e76d-b90b-4c4b-8e78-a891c2c9a75c.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/60685715/127276250-eb92b42d-e699-42f3-aa4d-c66b03df1057.png" alt="Kotlin" height="50" style="vertical-align:top; margin:4px">
-</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajoanrahman100.rajoanrahman100)
 
