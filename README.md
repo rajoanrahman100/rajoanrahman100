@@ -1,8 +1,52 @@
-# Hi "🖐️", I am Md. Rajoan Rahman Rifat
-- 💻 I'm working as a flutter developer at Tikweb.
-- 👀 I’m interested in flutter,dart,android
-- 🌱 I’m currently learning/developing app using flutter framework
-- ⚽ I love to watch MMA/UFC and play football
+## Hi “🖐️”, I am Md. Rajoan Rahman Rifat
+
+- 💻 I'm working as a Flutter Developer at Tikweb.
+- 👀 I’m interested in Flutter, Dart, Android development, Linux, and DevOps.
+- 🌱 I’m currently developing apps using the Flutter framework and diving into Linux and DevOps practices.
+- ⚜️ Passionate about crafting clean and efficient mobile applications.
+- ⚽ I love to watch MMA/UFC and play football.
+
+## 🫠️ Skills and Interests:
+- **Mobile App Development**: Experienced in creating scalable, high-performing mobile applications for Android and iOS using Flutter and Dart.
+- **Cross-Platform Development**: Proficient in Flutter for building cross-platform apps with a single codebase.
+- **Backend Integration**: Skilled in integrating REST APIs and Firebase services for seamless app functionality.
+- **State Management**: Hands-on experience with GetX, Provider, and Bloc for managing app state.
+- **Linux Enthusiast**: Currently exploring Linux for development and automation tasks.
+- **DevOps Aspirant**: Learning Docker, CI/CD pipelines, and cloud technologies to streamline app deployment.
+
+## 🪤 Recent Projects:
+- **E-Commerce App**: A Flutter-based e-commerce app with Firebase integration for real-time data and smooth user experiences.
+- **Fitness Tracker**: Developed a fitness tracking app with charting capabilities and customised notifications.
+- **Music Player**: Built a background music player using the `just_audio_background` package.
+
+## 🔧 Tools and Technologies:
+<p align="start">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/60685715/127171045-689266f5-1bc3-41c1-88dc-976057ea6100.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/60685715/127171537-f3e0e76d-b90b-4c4b-8e78-a891c2c9a75c.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/60685715/127276250-eb92b42d-e699-42f3-aa4d-c66b03df1057.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## 💡 Learning Goals:
+- Master advanced Flutter concepts such as animations and custom render objects.
+- Gain expertise in Linux shell scripting and automation.
+- Implement robust CI/CD pipelines using GitHub Actions and other tools.
+- Explore Kubernetes and container orchestration.
+
+## ✍️ Connect with Me:
+<p align="start">
+  <a href="https://www.linkedin.com/in/md-rajoan-rahman-rifat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://github.com/your-github-username"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+Thank you for stopping by! Feel free to explore my repositories and connect if you’re interested in collaborating or discussing exciting ideas.
+
+
 
 ## 🧰 Languages and Tools:
 <p align="start">
