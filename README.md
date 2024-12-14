@@ -10,13 +10,13 @@
 - **Mobile App Development**: Experienced in creating scalable, high-performing mobile applications for Android and iOS using Flutter and Dart.
 - **Cross-Platform Development**: Proficient in Flutter for building cross-platform apps with a single codebase.
 - **Backend Integration**: Skilled in integrating REST APIs and Firebase services for seamless app functionality.
-- **State Management**: Hands-on experience with GetX, Provider, and Bloc for managing app state.
+- **State Management**: Hands-on experience with BloC, Provider, Riverpod 2.0, and GetX for managing app state.
 - **Linux Enthusiast**: Currently exploring Linux for development and automation tasks.
 - **DevOps Aspirant**: Learning Docker, CI/CD pipelines, and cloud technologies to streamline app deployment.
 
 ## 🪤 Recent Projects:
 - **E-Commerce App**: A Flutter-based e-commerce app with Firebase integration for real-time data and smooth user experiences.
-- **Fitness Tracker**: Developed a fitness tracking app with charting capabilities and customised notifications.
+- **Fitness Tracker**: Developed a fitness tracking app with charting capabilities and customized notifications.
 - **Music Player**: Built a background music player using the `just_audio_background` package.
 
 ## 🔧 Tools and Technologies:
@@ -44,7 +44,7 @@
   <a href="https://github.com/your-github-username"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-Thank you for stopping by! Feel free to explore my repositories and connect if you’re interested in collaborating or discussing exciting ideas.
+Thank you for stopping by! Feel free to explore my repositories and connect if you want to collaborate or discuss exciting ideas.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajoanrahman100.rajoanrahman100)
 
