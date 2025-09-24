@@ -15,6 +15,7 @@
 - **DevOps Aspirant**: Learning Docker, CI/CD pipelines, and cloud technologies to streamline app deployment.
 
 ## 🪤 Recent Projects:
+- **Truely eSim**: Truely is a next-gen global eSIM platform designed for developers, digital nomads, and frequent travelers. It leverages a Switchless™ architecture with 700+ roaming partners to deliver seamless, on-demand connectivity across 190+ countries.
 - **E-Commerce App**: A Flutter-based e-commerce app with Firebase integration for real-time data and smooth user experiences.
 - **Fitness Tracker**: Developed a fitness tracking app with charting capabilities and customized notifications.
 - **Music Player**: Built a background music player using the `just_audio_background` package.
