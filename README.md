@@ -2,7 +2,7 @@
 
 # Md. Rajoan Rahman Rifat
 
-**Senior Flutter & Mobile Engineer**
+**Software Engineer**
 
 *Truely PTE. LTD. · Dhaka, Bangladesh*
 
@@ -19,12 +19,12 @@
 
 ## 👋 About Me
 
-6+ years building and shipping production-grade **Flutter**, **Dart**, **Kotlin**, and **Native Android/iOS** applications used by hundreds of thousands of people worldwide.
+5+ years building and shipping production-grade **Flutter**, **Dart**, **Kotlin**, and **Native Android/iOS** applications used by hundreds of thousands of people worldwide.
 
 I care deeply about **clean architecture**, **developer experience**, and writing code that scales. When I'm not building apps, I'm writing about Flutter on Medium, contributing to open source, or working on my fitness side project **FitMatrix**.
 
 ```
-💼  Senior Software Engineer @ Truely PTE. LTD. (Remote)
+💼  Software Engineer @ Truely PTE. LTD. (Remote)
 📦  Published Flutter package author on pub.dev
 ✍️  Technical writer on Medium
 📍  Based in Dhaka, Bangladesh
