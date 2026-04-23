@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajoan-rahman-rifat-683533186/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajoanrahman100)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@rajoanrahman100)
-[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/publishers/rajoanrahman100)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_clean_starter)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rajoanrahman100.rajoanrahman100)
 
