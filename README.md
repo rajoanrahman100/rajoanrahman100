@@ -40,7 +40,7 @@ I care deeply about **clean architecture**, **developer experience**, and writin
 | Android Downloads (Truely) | **50,000+** |
 | iOS App Store Rating | **4.7 ★** |
 | Total User Acquisitions | **100,000+** |
-| Years of Experience | **6+** |
+| Years of Experience | **5+** |
 | Apps Shipped (Play Store + App Store) | **6+** |
 
 ---
